@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ajnsr31qrj0qirmzo3mzsg.on.drv.tw/Portfolio/www.portfolio.com/](https://ajnsr31qrj0qirmzo3mzsg.on.drv.tw/Portfolio/www.portfolio.com/)
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **https://www.linkedin.com/in/miriam-temesghen-24a2a023a/**
 
 - ⚡ Fun fact **I'm really into Arts, especially music. I don't play any instruments, but listen to everything. My favorite song is Like My Father by Jax.**
