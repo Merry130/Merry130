@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg)](https://github.com/Merry130)
+[![MasterHead](https://www.codecademy.com/resources/blog/content/images/2021/10/What-is-collaborative-coding-.png)](https://github.com/Merry130)
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <h1 align="center">Hi 👋, I'm Miriam</h1>
