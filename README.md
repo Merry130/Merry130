@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merry130&label=Profile%20views&color=0e75b6&style=flat" alt="merry130" /> </p>
 
-- 🔭 I’m currently working on **my skills**
+- 🔭 I’m currently working on **projects**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
