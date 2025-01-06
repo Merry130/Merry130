@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Exploring New Technologies**
 
-- ⚡ Fun fact **I'm really into Arts, especially music. I don't play any instruments, but listen to everything. My favorite song is Like My Father by Jax.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
